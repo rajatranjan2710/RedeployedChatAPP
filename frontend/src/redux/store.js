@@ -15,4 +15,4 @@ const store = configureStore({
 
 export default store;
 
-export const server = `https://chitchat-a5ng.onrender.com`;
+export const server = `https://chitchat-a5ng.onrender.com/api/v1`;
